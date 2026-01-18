@@ -1,6 +1,4 @@
 # ----------LIBRARIES-------------
-from pickle import FALSE
-
 import numpy as np
 import yfinance as yf
 from scipy.stats import norm
